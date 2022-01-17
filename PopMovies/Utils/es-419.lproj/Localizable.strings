@@ -1,0 +1,14 @@
+//
+//  Localizable.strings
+//  PopMovies
+//
+//  Created by Raúl Pavón on 14/01/22.
+//
+
+"ORDER_BY" = "Ordenar Por";
+"TOP_RATED" = "Mejor Calificada";
+"POPULAR" = "Popular";
+"CANCEL" = "Cancelar";
+"DETAIL_TITLE" = "Detalle Película";
+"FAVORITE_BUTTON_TITLE" = "Agregar a Favorito";
+"URL_LANGUAGE" = "&language=es-MX";
